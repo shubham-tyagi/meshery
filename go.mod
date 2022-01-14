@@ -43,7 +43,6 @@ require (
 	github.com/lib/pq v1.10.4
 	github.com/manifoldco/promptui v0.9.0
 	github.com/nats-io/nats-server/v2 v2.2.0 // indirect; https://advisories.nats.io/CVE/CVE-2021-3127.txt
-	github.com/norwoodj/helm-docs v1.6.0 // indirect
 	github.com/nsf/termbox-go v1.1.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/image-spec v1.0.2 // indirect
@@ -51,7 +50,7 @@ require (
 	github.com/pkg/browser v0.0.0-20210706143420-7d21f8c997e2
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/common v0.31.1
+	github.com/prometheus/common v0.32.1
 	github.com/qri-io/jsonschema v0.2.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.3.0
