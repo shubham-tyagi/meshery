@@ -43,7 +43,6 @@ require (
 	github.com/lib/pq v1.10.4
 	github.com/manifoldco/promptui v0.9.0
 	github.com/nats-io/nats-server/v2 v2.2.0 // indirect; https://advisories.nats.io/CVE/CVE-2021-3127.txt
-	github.com/norwoodj/helm-docs v1.6.0 // indirect
 	github.com/nsf/termbox-go v1.1.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/image-spec v1.0.2 // indirect
@@ -65,7 +64,7 @@ require (
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
-	gorm.io/gorm v1.22.2
+	gorm.io/gorm v1.22.5
 	k8s.io/api v0.22.4
 	k8s.io/apiextensions-apiserver v0.22.3
 	k8s.io/apimachinery v0.22.4
